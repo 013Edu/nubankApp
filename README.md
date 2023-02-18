@@ -1,6 +1,10 @@
-# nubankApp
+# NubankApp
 
 ## Um clone do famoso app do Nubank, em especifico a tela de home do aplicativo
+
+## Como rodar o projeto:
+- Primeiro coloque o comando "npm install"
+- Em seguida digite o comando "expo start"
 
 ## Tecnologias usadas
 
